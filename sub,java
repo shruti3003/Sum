@@ -1,0 +1,8 @@
+class sub{
+    public static void main (String[]args){
+        int s=8;
+        int t= 9;
+        int minus= s-t;
+        System.out.println(minus);
+    }
+}
